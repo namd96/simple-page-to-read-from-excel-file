@@ -1,7 +1,7 @@
 ```
 Run the development server:
 
-```bash
+bash
 npm run dev
 # or
 yarn dev
